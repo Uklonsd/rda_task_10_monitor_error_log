@@ -36,7 +36,7 @@ datadir = /var/lib/mysql
 # bind-address          = 0.0.0.0
 bind-address            = 127.0.0.1
 
-mysqlx-bind-address     = 127.0.0.1
+# mysqlx-bind-address     = 127.0.0.1
 #
 # * Fine Tuning
 #
